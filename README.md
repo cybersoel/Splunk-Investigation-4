@@ -8,7 +8,7 @@ I analyzed an existing dashboard with four panels: two alert counters (Fortigate
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/D0VGK2b.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
